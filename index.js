@@ -11,7 +11,7 @@ window.addEventListener("load", () => {
         "#60c2d3"
     ];
 
-    // console.log(sounds)
+    console.log(sounds)
 
     //lets add sounds to our application
     pads.forEach((pad, index) => {
